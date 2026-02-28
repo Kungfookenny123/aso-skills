@@ -1,6 +1,6 @@
 # ASO & App Marketing Skills
 
-<a href="https://appeeky.com">
+<a href="https://docs.appeeky.com">
   <img width="auto" height="auto" alt="Appeeky" src="cover.png">
 </a>
 <div align="center">
